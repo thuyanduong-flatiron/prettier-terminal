@@ -1,9 +1,9 @@
 If your Terminal looks like the one on the right, we should change the settings so that it looks more like the one on the right.
 
-[img](./terminal.png)
+![img](./terminal.png)
 
 
-There are lots of benefits to having a cleaning, more color-coded terminal. You'll be able to see which folder you are in and which branch you are working off of more clearly and lead to more productive work.
+There are lots of benefits to having a cleaner, more color-coded terminal. You'll be able to see which folder you are in and which branch you are working off of more clearly and lead to more productive work.
 
 Run the following in your terminal:
 
