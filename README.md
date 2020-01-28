@@ -15,7 +15,7 @@ You may have to enter your computer's password next. Otherwise, continue with:
 
 `open ~/.bash_profile`
 
-This will open up a file which may or may not already have some content in it. Either way, paste the following into the file:
+This will open up a file which may or may not already have some content in it. Either way, copy the following and paste it at the end of file:
 
 ```
 function parse_git_branch {
