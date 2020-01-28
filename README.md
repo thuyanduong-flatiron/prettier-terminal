@@ -38,4 +38,4 @@ function parse_git_branch {
   }
 ```
 
-Finally, quit and open up your terminal again and you should be good to go!
+Finally, make you that file is saved, then quit and open up your terminal again and you should be good to go!
