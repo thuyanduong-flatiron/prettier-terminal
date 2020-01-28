@@ -1,4 +1,4 @@
-If your Terminal looks like the one on the right, we should change the settings so that it looks more like the one on the right.
+If your Terminal looks like the one on the left, we should change the settings so that it looks more like the one on the right.
 
 ![img](./terminal.png)
 
